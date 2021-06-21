@@ -7,7 +7,7 @@ body {
   font-family: 'Dancing Script', cursive;
   line-height: 25px;
   font-size: 15px;
-  font-family: "Roboto", sans-serif;
+
   font-weight: normal;
   color: #777777; }
 
@@ -330,7 +330,7 @@ button:focus {
 }
 
 .navbar-brand:hover{
-  background: ;
+
   padding: 5px;
   border-radius: 0.5rem;
   -webkit-border-radius: 0.5rem;
@@ -342,4 +342,7 @@ textarea.form-control{
   resize: none;
   height: 210px;
   overflow: auto;
+}
+.sign-up-form>span{
+  font-family: 'Dancing Script', cursive;
 }
